@@ -1,0 +1,7 @@
+kafka-python
+pandas
+sqlalchemy
+pyhive
+sasl
+thrift
+thrift-sasl

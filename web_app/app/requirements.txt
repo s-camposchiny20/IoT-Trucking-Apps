@@ -1,0 +1,10 @@
+pandas
+streamlit
+kafka-python
+pydeck
+plotly
+sqlalchemy
+pyhive
+sasl
+thrift
+thrift-sasl
